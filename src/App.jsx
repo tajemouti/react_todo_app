@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import Logo from '/logo.svg'
 import './App.css'
 
 function App() {
@@ -9,16 +8,13 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+        <a href="https://ajrass-tajemouti.netlify.app" target="_blank">
+          <img src={Logo} className="logo" alt="Logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Ajrass Tajemouti</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 10)}>
+        <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
@@ -26,7 +22,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the logo to visit my portfolio.
       </p>
     </>
   )
