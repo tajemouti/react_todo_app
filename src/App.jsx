@@ -13,14 +13,6 @@ function App() {
         </a>
       </div>
       <h1>Ajrass Tajemouti</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
       <p className="read-the-docs">
         Click on the logo to visit my portfolio.
       </p>
