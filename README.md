@@ -67,9 +67,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Task Management]**
+- **[Filtering and Sorting]**
+- **[Responsive Design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
