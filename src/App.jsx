@@ -9,8 +9,8 @@ function App() {
           <img src={Logo} className="logo" alt="Logo" />
         </a>
       </div>
-      <h1>Ajrass Tajemouti</h1>
-      <p className="read-the-docs">
+      <h1 className="text-3xl font-bold">Ajrass Tajemouti</h1>
+      <p>
         Click on the logo to visit my portfolio.
       </p>
     </>
